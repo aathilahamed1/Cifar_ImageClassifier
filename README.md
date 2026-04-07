@@ -78,8 +78,8 @@ Image → Preprocessing → CNN / ResNet → Prediction
 ## 🚀 How to Run Locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cifar-image-classifier.git
-cd cifar-image-classifier
+git clone https://github.com/aathilahamed1/Cifar_ImageClassifier.git
+cd Cifar_ImageClassifier
 
 pip install -r requirements.txt
 streamlit run app.py
