@@ -9,22 +9,6 @@ An end-to-end Image Classification system built using **PyTorch**, **CNN**, and 
 
 ---
 
-## 📸 Demo Screenshots
-
-### 🔹 UI Interface
-![UI](images/ui.png)
-
-### 🔹 Prediction Example
-![Prediction](images/prediction.png)
-
-### 🔹 Training Progress
-![Training](images/training.png)
-
-### 🔹 Architecture Diagram
-![Architecture](images/architecture.png)
-
----
-
 ## ⚙️ Features
 
 - Image upload & real-time prediction
